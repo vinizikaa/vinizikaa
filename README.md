@@ -1,0 +1,8 @@
+- # sobre mim
+- 👋 ola eu sou o @vinizikaa
+- o meu email ê vynicius.rodrigues@escola.pr.gov.br
+- 👍
+- 👀 eu estou interessado em aprender novas linguagens de programação
+- 🌱 eu estou aprendendo a programar recentemente a linguagem de javascript e scratch
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
